@@ -1,0 +1,13 @@
+# Loại bỏ file tạm thời hoặc không cần thiết
+*.log
+*.tmp
+*.bak
+
+# Loại bỏ thư mục
+node_modules/
+build/
+dist/
+
+# Loại bỏ các file hệ thống
+.DS_Store
+Thumbs.db

@@ -32,10 +32,9 @@ Sao chép mã
 ## Cài đặt
 
 Để cài đặt và chạy ứng dụng trên máy của bạn, hãy làm theo các bước sau:
-
+```bash
 1. Clone repository
 
-```bash
 git clone https://github.com/username/84Race.git
 cd 84Race
 

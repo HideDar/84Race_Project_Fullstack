@@ -10,6 +10,12 @@
 - **Xem danh sách thử thách**: Người dùng có thể xem các thử thách hiện có và chi tiết của từng thử thách.
 - **Hệ thống điểm và xếp hạng**: Người dùng có thể thấy điểm số của mình và xếp hạng trong từng thử thách.
 
+## Công nghệ sử dụng
+Frontend: Vue.js, Vue Router, Vuex
+Backend: Node.js, Express
+Database: MySQL
+Authentication: JWT (JSON Web Token)
+
 ## Cài đặt
 
 Để cài đặt và chạy ứng dụng trên máy của bạn, hãy làm theo các bước sau:
